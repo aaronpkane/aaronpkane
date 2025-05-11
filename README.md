@@ -1,6 +1,4 @@
 # Hello, world! I'm Aaron.
-![twitter-profile](https://github.com/user-attachments/assets/2e621e50-3fd5-4be8-a78a-9bc453b59255)
-
 
 Welcome to my GitHub profile. I'm new to coding and currently exploring the world of iOS app development using SwiftUI. I'm passionate about building tools that inspire action and make everyday life a bit more productive.
 
