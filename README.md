@@ -43,17 +43,6 @@ Coming soon to this profile: a full repository and demo video.
 
 ---
 
-## My GitHub Journey
-
-```text
-[🟩] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-My first commit was: 03/11/2025
-My first repository was: MotivAction
-My goal is to contribute regularly and track consistent progress
-```
-
----
-
 ## Contact
 
 I welcome collaboration and feedback from developers, mentors, and the broader tech community.
