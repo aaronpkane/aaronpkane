@@ -12,14 +12,15 @@ Welcome to my GitHub profile. I'm new to coding and currently exploring the worl
 
 ---
 
-## My First App: MotivAction
+## My First App: **Meteor**
 
-MotivAction is a simple yet practical iOS app that delivers daily motivational quotes and turns them into actionable to-do lists — helping users stay focused, inspired, and productive.
+**Meteor** is a simple yet practical iOS app that matches founders and entrepreneurs with seasoned mentors, who help them navigate the perplexities of launching and scaling their businesses.
 
 Built With:
 
 * SwiftUI
 * Xcode
+* Next.js
 
 In Progress:
 
