@@ -1,15 +1,6 @@
 # Hello, world! I'm Aaron.
 
-Welcome to my GitHub profile. I'm new to coding and currently exploring the world of iOS app development using SwiftUI. I'm passionate about building tools that inspire action and make everyday life a bit more productive.
-
----
-
-## Current Focus
-
-* Learning: SwiftUI, Xcode, and iOS mobile app development
-* Building: My first app — [MotivAction](#)
-* Goal: Publish MotivAction on the App Store and continue building helpful, motivating apps for everyday success.
-
+Welcome to my GitHub profile. I'm new to coding and currently exploring the world of iOS app development using SwiftUI. I'm passionate about building tools that inspire action and make everyday life a bit better. 
 ---
 
 ## My First App: **Meteor**
